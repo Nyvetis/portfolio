@@ -6,7 +6,7 @@ cover= '/image/Galaxy.webp'
 +++
 # Business & I.T Consulting
 
-> Business & IT Consulting est une société de conseil en informatique basée à Le Rheu, près de Rennes (35). Elle accompagne principalement des PME, collectivités locales et/ou encore des ménages dans la gestion et l’évolution de leur système d’information.
+> Business & IT Consulting est une société de gestion et sécurité de systèmes informatiques, basée à Le Rheu, près de Rennes (35). Elle accompagne principalement des PME, collectivités locales et/ou encore des ménages dans la gestion et l’évolution de leur système d’information.
 >
 > L’entreprise propose plusieurs types de services :
 >
