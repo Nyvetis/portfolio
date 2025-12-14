@@ -1,8 +1,13 @@
-- name: D-Sketon
-  url: https://d-sketon.github.io/
-  desc: Hexo 建站
+- name: Mathéo T.
+  url: https://github.com/DaemonWhite
+  desc: Participant aux AP-31, AP-32 et AP-41
   image: https://d-sketon.github.io/avatar/avatar.webp
-- name: D-Sketon
-  url: https://d-sketon.github.io/astro-theme-reimu/
-  desc: Astro 建站
+- name: Ayoub A.
+  # url : lien github
+  desc: Participant à l'AP-31
+  image: https://d-sketon.github.io/avatar/avatar.webp
+
+- name: Alan L.
+  # url : lien github
+  desc: Participant à l'AP-32 et AP-41
   image: https://d-sketon.github.io/avatar/avatar.webp
