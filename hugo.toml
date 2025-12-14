@@ -2,7 +2,8 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = ["github.com/D-Sketon/hugo-theme-reimu"]
-
+relativeURLs = false
+canonifyURLs = true
 [markup]
     [markup.goldmark.renderer]
         unsafe = true
