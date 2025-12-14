@@ -1,6 +1,6 @@
 +++
 date = '2025-09-16T09:19:51+02:00'
-draft = true
+draft = false
 title = 'Stages'
 cover= '/image/Galaxy.webp'
 +++
