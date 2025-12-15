@@ -28,7 +28,7 @@ cover= '/image/Galaxy.webp'
 ### Captures
 | BITC |
 | -------- |
-| ![Image](/image/BITC_home.webp) |
+| ![Image](/image/BITC_Home.webp) |
 |  |
 | ![Image](/image/BITC_profil.webp) |
 |  |
