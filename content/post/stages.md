@@ -1,9 +1,15 @@
-+++
-date = '2025-09-16T09:19:51+02:00'
-draft = false
-title = 'Stages'
-cover= '/image/Galaxy.webp'
-+++
+---
+date: 2026-01-12
+description: "Work in progress..."
+image: '/image/Galaxy.webp'
+lastmod: 2026-01-13
+showTableOfContents: true
+categories: [ "formation", "stage"]
+tags: ["JS", "React"]
+title: "Stage BITC"
+cover: '/image/Galaxy.webp'
+type: "post"
+--- 
 # Business & I.T Consulting
 
 > Business & IT Consulting est une société de gestion et sécurité de systèmes informatiques, basée à Le Rheu, près de Rennes (35). Elle accompagne principalement des PME, collectivités locales et/ou encore des ménages dans la gestion et l’évolution de leur système d’information.
