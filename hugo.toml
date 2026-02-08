@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Portefeuille de Compétences Professionnel'
 theme = ["github.com/D-Sketon/hugo-theme-reimu"]
 relativeURLs = false
 canonifyURLs = true
