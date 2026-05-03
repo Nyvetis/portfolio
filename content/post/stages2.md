@@ -1,6 +1,6 @@
 ---
 date: 2026-01-12
-description: "Work in progress..."
+description: "Stage de 2e année de BTS"
 image: '/image/Galaxy.webp'
 lastmod: 2026-01-13
 showTableOfContents: true
