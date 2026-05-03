@@ -7,7 +7,6 @@ showTableOfContents: true
 categories: ["formation", "Comptétences"]
 cover: '/image/Galaxy.webp'
 ---
-
 #### | Bloc 1 - Support et mise à disposition des services informatiques - Compétences |
 | |
 | -------- |

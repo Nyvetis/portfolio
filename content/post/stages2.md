@@ -80,3 +80,8 @@ type: "post"
 - 2 premières semaines : mise en place de l'environnement et réalisation de la partie 1 de l'annexe
 - 2 semaines suivantes : réalisation de la partie 2, correction de bugs, optimisation du code et personnalisation du PDF
 - 2 dernières semaines : réalisation de la partie 3, déploiement sur la branche Dev et finitions de la génération du PDF
+
+
+## Documentation :
+
+> Tout les documents concernant les réalisations sont trouvables [ici](https://nyvetis.github.io/portfolio/tabsynthese)
